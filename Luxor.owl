@@ -1047,6 +1047,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review6">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cycling around the city was a very good experience. I recommend it for anyone who wants to discover the whole city in a short a day.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1055,6 +1057,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review7">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The cinema is located in a the centre of the city. the ticket price is reasonable but, it has a very small variaty of english movies.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</review_rating>
     </owl:NamedIndividual>
     
 
