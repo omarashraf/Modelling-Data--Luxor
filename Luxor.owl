@@ -545,6 +545,25 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin_Cinema -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin_Cinema">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T19:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</price>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin_Cathedral -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin_Cathedral">
@@ -569,7 +588,28 @@
     
 
 
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Camel_Riding -->
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo_Cinema -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo_Cinema">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T22:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</price>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Camel_Riding -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Camel_Riding">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sports"/>
@@ -621,14 +661,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Church">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History_Place_Type"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cinema -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cinema">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
     </owl:NamedIndividual>
     
 
@@ -739,8 +771,60 @@
 
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Hot_Air_Balloon -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Hot_Air_Balloon">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sindbad_Luxor_Hot_Air_Balloon">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+          <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+         
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T05:00:00Z</activity_end>
+
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T08:00:00Z</activity_start>
+
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</duration_in_hours>
+
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</minimum_age>
+
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7</price>
+    </owl:NamedIndividual>
+    
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Original_Hot_Air_Balloon -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#See_Luxor_Hot_Air_Balloon">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+          <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+         
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T07:00:00Z</activity_end>
+
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T10:00:00Z</activity_start>
+
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</duration_in_hours>
+
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</minimum_age>
+
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</price>
     </owl:NamedIndividual>
     
 
@@ -865,10 +949,65 @@
     
 
 
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Nile_Cruise -->
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Nile_Cruise -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Nile_Cruise">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Nile_Cruise">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+         <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T08:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T17:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.25</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15</price>
+
+    </owl:NamedIndividual>
+
+     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Nile_Cruise -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo_Nile_Cruise">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+         <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T13:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T23:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.25</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10</price>
+
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aswan_Nile_Cruise -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aswan_Nile_Cruise">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aswan"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T09:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T18:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.25</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12</price>
+
     </owl:NamedIndividual>
     
 
@@ -1017,12 +1156,65 @@
     
 
 
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Safari -->
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Safari -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Safari">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Safari">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T12:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T17:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</price>
+
     </owl:NamedIndividual>
     
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Safari -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aswan_Safari">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aswan"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T13:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T17:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26</price>
+
+    </owl:NamedIndividual>
+
+     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart_Safari">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart"/>
+
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+       
+
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T09:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T17:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40</price>
+
+    </owl:NamedIndividual>
 
 
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday -->
@@ -1083,8 +1275,47 @@
 
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Star_Gazing -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Star_Gazing">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Star_Gazing">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-11T05:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T20:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10</price>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Star_Gazing -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Barcelona_Star_Gazing">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Barcelona"/>
+       
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-11T01:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T20:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20</price>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Star_Gazing -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Prague_Star_Gazing">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Prague"/>
+       
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-11T01:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T20:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23</price>
     </owl:NamedIndividual>
     
 
@@ -1103,7 +1334,23 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
     </owl:NamedIndividual>
     
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart_Cinema -->
 
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart_Cinema">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T18:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.5</price>
+
+    </owl:NamedIndividual>
 
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Summer -->
 
@@ -1169,10 +1416,57 @@
     
 
 
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Theatre -->
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#CairoTheatre -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Theatre">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo_Theatre">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T23:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T18:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20</price>
+
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Amsterdam_Theatre -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Amsterdam_Theatre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+          <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Amsterdam"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T21:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T17:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50</price>
+    </owl:NamedIndividual>
+
+     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome_Theatre -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome_Theatre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+          <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T20:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T15:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</price>
     </owl:NamedIndividual>
     
 
@@ -1297,6 +1591,26 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Vienna_Cinema -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Vienna_Cinema">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Vennia"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-10T20:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5</duration_in_hours>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.0</price>
+
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday">
@@ -1322,5 +1636,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
 
