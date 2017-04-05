@@ -1672,6 +1672,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip1">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin"/>
+        <trip_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-07T12:00:00</trip_end>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-01T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
@@ -1680,6 +1683,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip2">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
+        <trip_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-06-06T12:00:00</trip_end>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-06-01T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
@@ -1688,6 +1694,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip3">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Barcelona"/>
+        <trip_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-06-15T12:00:00</trip_end>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-06-09T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
@@ -1696,6 +1705,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip4">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <trip_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-09T12:00:00</trip_end>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-12T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
@@ -1704,6 +1716,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip5">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <trip_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-06T12:00:00</trip_end>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-01T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
@@ -1712,6 +1727,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip6">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <trip_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-28T12:00:00</trip_end>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-20T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
@@ -1720,6 +1738,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip7">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart"/>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-02T12:00:00</trip_start>
+        <trip_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-08T12:00:00</trip_start>
     </owl:NamedIndividual>
     
 
