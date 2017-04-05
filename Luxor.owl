@@ -1672,6 +1672,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip1">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin"/>
     </owl:NamedIndividual>
     
 
@@ -1680,6 +1681,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip2">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor"/>
     </owl:NamedIndividual>
     
 
@@ -1688,6 +1690,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip3">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Barcelona"/>
     </owl:NamedIndividual>
     
 
@@ -1696,6 +1699,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip4">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
     </owl:NamedIndividual>
     
 
@@ -1704,6 +1708,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip5">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
     </owl:NamedIndividual>
     
 
@@ -1712,6 +1717,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip6">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
     </owl:NamedIndividual>
     
 
@@ -1720,6 +1726,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip7">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Trip"/>
+        <located_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart"/>
     </owl:NamedIndividual>
     
 
