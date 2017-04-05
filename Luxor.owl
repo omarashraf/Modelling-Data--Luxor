@@ -1305,6 +1305,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review8">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The square is very alive, full of shops, restaurants, street performances. You can find a lot of walking tours there as well.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1313,6 +1315,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review9">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The best temple I have ever seen. The walking tours there are very helpful.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
     
 
