@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+<<<<<<< HEAD
         <uri id="Automatically generated entry, Timestamp=1491415562208" name="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor" uri="Luxor.owl"/>
+=======
+        <uri id="Automatically generated entry, Timestamp=1491416315128" name="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor" uri="Luxor.owl"/>
+>>>>>>> e121bab7fdbb54065a294249f85d4a00a44152e0
     </group>
 </catalog>
