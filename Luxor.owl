@@ -1235,6 +1235,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review1">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I had so much, the food was awesome and service was so good.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1243,6 +1245,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review2">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The food took so long, and the place is so overproced</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1251,6 +1255,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review3">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The overall experience was so good. The people working there ae so friendly and helpfull.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1259,6 +1265,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review4">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The hotair balloon trip was so exciting. The view from above is very beautiful and relaxing. We took a lot of amazing pictures. But the it is a bit expensive.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1267,6 +1275,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review5">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The musium was very rich of intresting things. The audio guide was not helpful. and It was abit hard to find specific pieces in such a huge building.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1275,6 +1285,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review6">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cycling around the city was a very good experience. I recommend it for anyone who wants to discover the whole city in a short a day.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1283,6 +1295,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review7">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The cinema is located in a the centre of the city. the ticket price is reasonable but, it has a very small variaty of english movies.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1291,6 +1305,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review8">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The square is very alive, full of shops, restaurants, street performances. You can find a lot of walking tours there as well.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1299,6 +1315,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review9">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The best temple I have ever seen. The walking tours there are very helpful.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
     
 
@@ -1781,5 +1799,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
 
