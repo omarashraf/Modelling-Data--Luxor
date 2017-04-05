@@ -10,7 +10,9 @@
      xmlns:wot="http://xmlns.com/wot/0.1/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor"/>
+    <owl:Ontology rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor">
+        <owl:imports rdf:resource="http://xmlns.com/foaf/0.1/"/>
+    </owl:Ontology>
     
 
 
