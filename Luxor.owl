@@ -715,6 +715,14 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Egyptian -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Egyptian">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cuisine"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Entertainment">
