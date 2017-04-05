@@ -2843,6 +2843,90 @@
         <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.0</price>
         <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</team_members>
     </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Squash_Cairo_Stadium_Complex -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Squash_Cairo_Stadium_Complex">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sports"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T20:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <extreme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</extreme>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</price>
+        <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</team_members>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cricket_Helioplis_Club -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cricket_Helioplis_Club">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sports"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T16:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</duration_in_hours>
+        <extreme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</extreme>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.0</price>
+        <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</team_members>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Golf_El_Gezeria_Club -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Golf_El_Gezeria_Club">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sports"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T18:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T10:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5</duration_in_hours>
+        <extreme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</extreme>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.0</price>
+        <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</team_members>
+    </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#St_Simon_Adventure_Park -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#St_Simon_Adventure_Park">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sports"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T14:00:00Z</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T08:00:00Z</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.5</duration_in_hours>
+        <extreme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</extreme>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.0</price>
+        <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</team_members>
+    </owl:NamedIndividual>
+
 </rdf:RDF>
 
 
