@@ -482,6 +482,31 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ASPIC -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ASPIC">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aboudi -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aboudi">
@@ -596,6 +621,29 @@
         <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
         <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.0</price>
         <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#AlKaram -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#AlKaram">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#International"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T23:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.25</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -1120,6 +1168,31 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Boutary -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Boutary">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:15:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Bowl_de_la_Muette_Skate -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Bowl_de_la_Muette_Skate">
@@ -1141,6 +1214,34 @@
         <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</minimum_age>
         <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</price>
         <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</team_members>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Breadin -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Breadin">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FastFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T23:59:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T10:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -1419,6 +1520,30 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cezembre -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cezembre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Chinese -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Chinese">
@@ -1681,6 +1806,28 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Interest"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Epicure -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Epicure">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -2289,6 +2436,103 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Bonne_Excuse -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Bonne_Excuse">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Pergola -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Pergola">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T23:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.75</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Porta_Del_Principe -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Porta_Del_Principe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T14:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Veraison -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#La_Veraison">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T21:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Lake -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Lake">
@@ -2318,6 +2562,79 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Le_Cinq -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Le_Cinq">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Le_Gabriel -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Le_Gabriel">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Life -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Life">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T23:45:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Live_Music_Marula -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Live_Music_Marula">
@@ -2343,6 +2660,33 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Liveshows">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Interest"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luliveto_Shop -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luliveto_Shop">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FastFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T20:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T11:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -2506,6 +2850,32 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Matermatuta -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Matermatuta">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T23:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.25</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Mellowpark_Berlin -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Mellowpark_Berlin">
@@ -2531,10 +2901,62 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Metamorfosi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Metamorfosi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Mexican -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Mexican">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cuisine"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Midi_12 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Midi_12">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T21:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T18:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -2575,6 +2997,27 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Interest"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#My_Ale -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#My_Ale">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T21:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T11:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -2777,6 +3220,34 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pane_e_Salame -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pane_e_Salame">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FastFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Papilles -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Papilles">
@@ -2835,6 +3306,82 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Philae_Temple">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pierre_Gagnaire -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pierre_Gagnaire">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T21:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pipero_Roma -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pipero_Roma">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T12:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pizza_Julia -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Pizza_Julia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Italian"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sunday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T23:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T18:30:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -3028,10 +3575,36 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Restaurant_H -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Restaurant_H">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review1 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review1">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Restaurant_H"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I had so much, the food was awesome and service was so good.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</review_rating>
     </owl:NamedIndividual>
@@ -3042,6 +3615,10 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review10">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin_Cathedral"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The architecture is amazing. From the top of the dom you can see the whole city. The garden infront of the main enterance is very beautiful and a very goo place to chill, relax and read.</review_comment>
+        <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
     
 
@@ -3050,7 +3627,9 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review2">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
-        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The food took so long, and the place is so overproced</review_comment>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Ristorante_A_Mano"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2"/>
+        <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The food took so long, and the place is so overpriced</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</review_rating>
     </owl:NamedIndividual>
     
@@ -3060,6 +3639,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review3">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#SURF_ARENA_Prague"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The overall experience was so good. The people working there ae so friendly and helpfull.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
@@ -3070,6 +3651,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review4">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#See_Luxor_Hot_Air_Balloon"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The hotair balloon trip was so exciting. The view from above is very beautiful and relaxing. We took a lot of amazing pictures. But the it is a bit expensive.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
@@ -3080,6 +3663,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review5">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor_Museum"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The musium was very rich of intresting things. The audio guide was not helpful. and It was abit hard to find specific pieces in such a huge building.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</review_rating>
     </owl:NamedIndividual>
@@ -3090,6 +3675,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review6">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin_Bike_Tour"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cycling around the city was a very good experience. I recommend it for anyone who wants to discover the whole city in a short a day.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
@@ -3100,6 +3687,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review7">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo_Cinema"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The cinema is located in a the centre of the city. the ticket price is reasonable but, it has a very small variaty of english movies.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</review_rating>
     </owl:NamedIndividual>
@@ -3110,6 +3699,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review8">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The square is very alive, full of shops, restaurants, street performances. You can find a lot of walking tours there as well.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</review_rating>
     </owl:NamedIndividual>
@@ -3120,6 +3710,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review9">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Review"/>
+        <review_about rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Temple_of_Ramesses_II"/>
+        <reviewed_by rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9"/>
         <review_comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The best temple I have ever seen. The walking tours there are very helpful.</review_comment>
         <review_rating rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</review_rating>
     </owl:NamedIndividual>
@@ -3228,6 +3820,31 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sacred_Lake">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sacree_fleur -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sacree_fleur">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Monday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:30:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T11:45:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -3483,6 +4100,30 @@
         <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
         <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.0</price>
         <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sourire -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sourire">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Food"/>
+        <available_at rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris"/>
+        <food_style rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#French"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Friday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Saturday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Thursday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Tuesday"/>
+        <open_days rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Wednesday"/>
+        <satisfies rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#FrenchFood"/>
+        <activity_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T22:00:00</activity_end>
+        <activity_start rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T19:00:00</activity_start>
+        <duration_in_hours rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</duration_in_hours>
+        <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
+        <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
+        <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</smoking_allowed>
     </owl:NamedIndividual>
     
 
@@ -4100,6 +4741,189 @@
     
 
 
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Culture"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa.paul@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vanessa</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Animals"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Arts"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Dancing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ExtremeSports"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk.stephan@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dirk</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stephan</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Nature"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel.zipper@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nigel</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zipper</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#JapaneseFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Movies"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Plays"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">American</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross.kalmangaro@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">37</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ross</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalmangaro</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanish</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul.riz@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riz</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#TeamSports"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canadian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc.paolo@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marc</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brazilian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david.helmut@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Helmut</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Culture"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Education"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil.sahi@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lavil</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahi</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia.paul@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Julia</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Liveshows"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Movies"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Egyptian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko.rico@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko123</user_password>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</foaf:age>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zakaria</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riad</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#VeganFood">
@@ -4314,189 +5138,6 @@
         <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
         <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</team_members>
     </owl:NamedIndividual>
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Culture"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa.paul@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vanessa</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</foaf:age>
-        
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Animals"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Arts"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Dancing"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ExtremeSports"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk.stephan@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dirk</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stephan</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Nature"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italian</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel.zipper@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nigel</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zipper</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#JapaneseFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Movies"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Plays"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">American</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross.kalmangaro@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ross</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalmangaro</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">37</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndianFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanish</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul.riz@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riz</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#TeamSports"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canadian</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc.paolo@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marc</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brazilian</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david.helmut@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Helmut</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Culture"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Education"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndianFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indian</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil.sahi@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lavil</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahi</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia.paul@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Julia</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</foaf:age>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9">
-        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Liveshows"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Movies"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
-        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
-        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Egyptian</nationality>
-        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko.rico@gmail.com</user_email>
-        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko123</user_password>
-        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zakaria</foaf:firstName>
-        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riad</foaf:lastName>
-        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</foaf:age>
-    </owl:NamedIndividual>
-    
 </rdf:RDF>
 
 
