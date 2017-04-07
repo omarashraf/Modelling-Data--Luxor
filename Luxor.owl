@@ -4328,6 +4328,8 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vanessa</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</foaf:age>
+        
     </owl:NamedIndividual>
     
 
@@ -4345,6 +4347,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dirk</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stephan</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4363,6 +4366,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nigel</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zipper</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4380,6 +4384,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ross</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalmangaro</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">37</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4397,6 +4402,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riz</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4414,6 +4420,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marc</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4431,6 +4438,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Helmut</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4450,6 +4458,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lavil</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahi</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4467,6 +4476,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Julia</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</foaf:age>
     </owl:NamedIndividual>
     
 
@@ -4484,6 +4494,7 @@
         <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko123</user_password>
         <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zakaria</foaf:firstName>
         <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riad</foaf:lastName>
+        <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</foaf:age>
     </owl:NamedIndividual>
     
 </rdf:RDF>
