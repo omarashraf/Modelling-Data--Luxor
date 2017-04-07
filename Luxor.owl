@@ -80,16 +80,6 @@
         <rdfs:domain rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Season"/>
     </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#during -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#during">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History_Age"/>
-    </owl:ObjectProperty>
-    
 
 
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#food_style -->
@@ -414,14 +404,6 @@
     <owl:Class rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Activity"/>
     </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History_Age -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History_Age"/>
-    
-
 
     <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History_Place_Type -->
 
