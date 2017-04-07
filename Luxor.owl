@@ -19,6 +19,35 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/age -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/age"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/firstName -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/firstName"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/lastName -->
+
+    <owl:AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/lastName"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Object Properties
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -708,6 +737,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Amsterdam">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Summer"/>
     </owl:NamedIndividual>
     
 
@@ -821,6 +851,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Aswan">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Autumn"/>
     </owl:NamedIndividual>
     
 
@@ -902,6 +933,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Barcelona">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Summer"/>
     </owl:NamedIndividual>
     
 
@@ -1000,6 +1032,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Berlin">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Winter"/>
     </owl:NamedIndividual>
     
 
@@ -1342,6 +1375,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Cairo">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Winter"/>
     </owl:NamedIndividual>
     
 
@@ -2695,6 +2729,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Luxor">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Autumn"/>
     </owl:NamedIndividual>
     
 
@@ -3273,6 +3308,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Paris">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Spring"/>
     </owl:NamedIndividual>
     
 
@@ -3498,6 +3534,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Prague">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Spring"/>
     </owl:NamedIndividual>
     
 
@@ -3768,6 +3805,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Rome">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Summer"/>
     </owl:NamedIndividual>
     
 
@@ -4283,6 +4321,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Stuttgart">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Spring"/>
     </owl:NamedIndividual>
     
 
@@ -4936,6 +4975,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Venice">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Summer"/>
     </owl:NamedIndividual>
     
 
@@ -4969,6 +5009,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Vienna">
         <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#City"/>
+        <best_time_to_visit rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Autumn"/>
     </owl:NamedIndividual>
     
 
