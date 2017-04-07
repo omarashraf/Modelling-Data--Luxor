@@ -2636,7 +2636,7 @@
         <formal_dress_code rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</formal_dress_code>
         <indoors rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</indoors>
         <minimum_age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minimum_age>
-        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</price>
+        <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
         <smoking_allowed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</smoking_allowed>
     </owl:NamedIndividual>
     
