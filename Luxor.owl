@@ -4314,6 +4314,178 @@
         <price rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</price>
         <team_members rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</team_members>
     </owl:NamedIndividual>
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Culture"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa.paul@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vanessa123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vanessa</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User10">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Animals"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Arts"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Dancing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ExtremeSports"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">German</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk.stephan@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dirk123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dirk</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stephan</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#ItalianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Nature"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel.zipper@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nigel123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nigel</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zipper</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#JapaneseFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Movies"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Plays"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">American</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross.kalmangaro@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ross123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ross</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalmangaro</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User4">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanish</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul.riz@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paul123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riz</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User5">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#TeamSports"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canadian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc.paolo@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marc123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marc</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paolo</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User6">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#History"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brazilian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david.helmut@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">david123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Helmut</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Adventures"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Culture"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Education"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Music"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#OutdoorActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil.sahi@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lavil123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lavil</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sahi</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User8">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#EgyptianFood"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndividualSports"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#IndoorActivities"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Sightseeing"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">French</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia.paul@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">julia123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Julia</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul</foaf:lastName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User9">
+        <rdf:type rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#User"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Liveshows"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Movies"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#Relaxing"/>
+        <interested_in rdf:resource="http://www.semanticweb.org/omar/ontologies/2017/2/Luxor#WaterActivities"/>
+        <nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Egyptian</nationality>
+        <user_email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko.rico@gmail.com</user_email>
+        <user_password rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ziko123</user_password>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zakaria</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riad</foaf:lastName>
+    </owl:NamedIndividual>
+    
 </rdf:RDF>
 
 
